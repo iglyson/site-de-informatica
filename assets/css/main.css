@@ -105,8 +105,9 @@ input, select, textarea {
 
 	p {
 		color: black;
-		font-weight: normal;
-		
+		font: weight 7px;
+		text-align:left;
+
 	}
 
 	h2 {
@@ -1611,22 +1612,23 @@ input, select, textarea {
 	}
 
 	#banner {
-		position: relative;
-		width: 100%;
-		padding: 6em 0;
+		padding: 2em 2em;
 		border-radius: 10px;
-		background-image: url(images/banner.jpg);
-		background-size: cover;
 		text-align: center;
-		box-shadow: inset 0 0 0 20px #fff;
+		box-shadow: inset 0 0 0 5px #fff;
 	}
 
-		#banner h2 {
+		#banner h1 {
 			font-size: 3.3em;
-			color: #fff;
+
 			text-align: center;
 			letter-spacing: -2px;
 			margin: 0;
+		}
+
+		#banner p{
+			color: black;
+			text-align: center;
 		}
 
 		#banner span {
@@ -1705,7 +1707,7 @@ input, select, textarea {
 
 			#banner {
 				width: 100%;
-				padding: 5em 0;
+				
 			}
 
 				#banner h2 {
@@ -1765,10 +1767,7 @@ input, select, textarea {
 				display: none;
 			}
 
-			#banner {
-				padding: 6em 0;
-			}
-
+			
 				#banner h2 {
 					font-size: 2.5em;
 				}
@@ -1977,12 +1976,11 @@ input, select, textarea {
 
 			#banner-wrapper {
 				background: #c8d2bc url(images/bg1.png);
-				padding: 20px 0;
 			}
 
 			#banner {
 				box-shadow: inset 0 0 0 10px #fff;
-				padding: 4em 1em;
+				padding: 8em 2em;
 			}
 
 				#banner h2 {

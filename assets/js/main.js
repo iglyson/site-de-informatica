@@ -23,7 +23,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + '<img width="150px" src="images/Campus Sao Goncalo do Amarante-Horizontal.png" alt="">' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);

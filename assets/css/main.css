@@ -105,8 +105,9 @@ input, select, textarea {
 
 	p {
 		color: black;
-		font-weight: normal;
-		
+		font-weight:300;
+		text-align:left;
+
 	}
 
 	h2 {

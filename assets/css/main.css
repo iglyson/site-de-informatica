@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4 {
-		color: #007897;
+		color: #009327;
 		font-weight: normal;
 	}
 
@@ -107,7 +107,7 @@ input, select, textarea {
 		color: black;
 		font: weight 15px;
 		text-align:left;
-		font-size: 15px;
+		font-size: 25px;
 
 	}
 
@@ -133,7 +133,7 @@ input, select, textarea {
 	}
 
 	p, ul {
-		margin-bottom: 1.25em;
+		margin-bottom: 1.3em;
 	}
 
 	p {
@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #5d93a2;
+		color: #009327;
 		text-decoration: underline;
 	}
 

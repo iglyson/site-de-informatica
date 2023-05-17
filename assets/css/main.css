@@ -71,6 +71,7 @@ input, select, textarea {
 	appearance: none;
 }
 
+
 /* Basic */
 
 	html {
@@ -111,6 +112,7 @@ input, select, textarea {
 		font-size: 3em;
 		letter-spacing: -1px;
 		margin-bottom: 1em;
+		text-align: center;
 	}
 
 	h3, h4 {
@@ -1642,7 +1644,7 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		padding: 4em 0;
+		padding: 40px 40px;
 	}
 
 /* Footer */
@@ -1994,7 +1996,7 @@ input, select, textarea {
 		/* Main */
 
 			#main {
-				padding: 40px 0;
+				padding: 10px 10px;
 			}
 
 		/* Footer */

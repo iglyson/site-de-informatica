@@ -99,10 +99,6 @@ input, select, textarea {
 		font-weight: normal;
 	}
 
-	h1 {
-		text-transform: lowercase;
-	}
-
 	p {
 		color: black;
 		font: weight 15px;

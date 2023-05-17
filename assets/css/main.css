@@ -1562,7 +1562,7 @@ input, select, textarea {
 			right: 40px;
 			top: 1px;
 			line-height: 84px;
-			text-transform: uppercase;
+			text-transform: lowercase;
 			font-size: 1.3em;
 			letter-spacing: -1px;
 		}

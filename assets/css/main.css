@@ -105,7 +105,7 @@ input, select, textarea {
 
 	p {
 		color: black;
-		font: weight 15px;
+		font-weight: 15px;
 		text-align:left;
 		font-size: 25px;
 		text-align: justify;

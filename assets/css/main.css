@@ -75,6 +75,7 @@ input, select, textarea {
 }
 
 
+
 /* Basic */
 
 	html {
@@ -88,6 +89,7 @@ input, select, textarea {
 	@-ms-viewport {
 		width: device-width;
 	}
+	
 
 	body {
 		font-size: 13.5pt;
@@ -2021,6 +2023,9 @@ input, select, textarea {
 				#copyright a {
 					color: #5d5d5d;
 				}
+
+		}
+		.classeprofessor{
 
 		}
 		

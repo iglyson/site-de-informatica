@@ -282,10 +282,6 @@ input, select, textarea {
 			margin-left: 25%;
 		}
 
-		.row > .col-4 {
-			width: 33.33333%;
-		}
-
 		.row > .off-4 {
 			margin-left: 33.33333%;
 		}
@@ -411,7 +407,7 @@ input, select, textarea {
 		}
 
 			.row > * {
-				padding: 50px 0 0 50px;
+				padding: 50px 0 0 180px;
 			}
 
 			.row.gtr-uniform {
@@ -463,6 +459,7 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				justify-content: space-around;
 			}
 
 				.row > * {
@@ -671,7 +668,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 75px 0 0 75px;
+						padding: 60px 0 0 60px;
 					}
 
 					.row.gtr-150.gtr-uniform {

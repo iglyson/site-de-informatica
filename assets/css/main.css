@@ -180,6 +180,24 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
+	.professor-container{
+		display: flex;
+		flex-direction: column;
+	}
+
+	.informacao-professor{
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+	}
+	.descricao-professor{
+		width: 50%;
+	}
+	.foto-professor{
+		width: 30%;
+	}
+
+
 /* Container */
 
 	.container {
@@ -2021,8 +2039,4 @@ input, select, textarea {
 					color: #5d5d5d;
 				}
 
-		}
-		.classeprofessor{
-
-		}
 		

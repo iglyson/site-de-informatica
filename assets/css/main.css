@@ -136,6 +136,7 @@ input, select, textarea {
 
 	p, ul {
 		margin-bottom: 1.3em;
+		justify-content: space-around;
 	}
 
 	p {
@@ -2038,5 +2039,5 @@ input, select, textarea {
 				#copyright a {
 					color: #5d5d5d;
 				}
-
+			}
 		

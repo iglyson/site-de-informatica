@@ -136,7 +136,7 @@ input, select, textarea {
 
 	p, ul {
 		margin-bottom: 1.3em;
-		justify-content: space-around;
+		display: block;
 	}
 
 	p {
@@ -174,7 +174,7 @@ input, select, textarea {
 	}
 
 	section, article {
-		margin: 0 0 60px 0;
+		margin: 0 30px 60px 40px;
 	}
 
 	section:last-child, article:last-child {

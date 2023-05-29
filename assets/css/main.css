@@ -147,6 +147,10 @@ input, select, textarea {
 		font-size: 1em;
 	}
 
+	.h-geral {
+		font-size: 2em;
+	}
+
 	p, ul {
 		margin-bottom: 1.3em;
 	}

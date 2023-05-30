@@ -31,6 +31,36 @@ footer, header, hgroup, menu, nav, section {
 		font-size: 25pt;
 		color: #00ab06;
 	}
+	.foto-secitec{
+		width: 125px;
+		height: 109px;
+		position: absolute;
+
+	}
+	.foto-setic{
+		width: 160px;
+		height: 109px;
+		position: absolute;
+	}
+	.parce-1{	
+		display: flex;
+		flex-wrap: wrap;
+		align-content: center;
+		margin-top: 20px;
+		margin-right: 610px;
+		margin-bottom: 41px;
+		margin-left: 610px;
+
+	}
+	.even-1{
+		display: flex;
+		flex-wrap: wrap;
+		align-content: center;
+		margin-top: 20px;
+		margin-right: 610px;
+		margin-bottom: 41px;
+		margin-left: 610px;
+	}
 body {
 	line-height: 1;
 }
@@ -1482,7 +1512,7 @@ input, select, textarea {
 
 	ul.small-image-list li {
 		overflow: hidden;
-		margin-bottom: 1.5em;
+		margin: 30px;
 	}
 
 		ul.small-image-list li img {

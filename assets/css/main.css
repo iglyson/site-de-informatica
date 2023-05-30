@@ -1741,6 +1741,14 @@ input, select, textarea {
     	margin-bottom: 1em;
     	text-align: center;
 	}
+	img.if{
+		height: 80px;
+    	width: 80px;
+    	margin-top: -10px;
+    	margin-right: 630px;
+    	margin-bottom: 10px;
+    	margin-left: 630px;
+	}
 	
 	/* CLASS PARA FORMATAR COM JS */
 	.aprovado {

@@ -191,6 +191,7 @@ input, select, textarea {
 
 	p {
 		line-height: 1.8em;
+		
 	}
 
 	strong {
@@ -1682,7 +1683,7 @@ input, select, textarea {
 
 		#banner p{
 			color: black;
-			text-align: center;
+			text-align: justify;
 		}
 
 		#banner span {

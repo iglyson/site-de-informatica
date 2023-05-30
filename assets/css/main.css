@@ -61,6 +61,16 @@ footer, header, hgroup, menu, nav, section {
 		margin-bottom: 41px;
 		margin-left: 610px;
 	}
+
+.foto-professor {
+width: 100%;
+height: 100%;
+object-fit: cover;
+border: 10px solid #ffffff;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+flex-grow: 1;
+}
+
 body {
 	line-height: 1;
 }
@@ -105,6 +115,13 @@ mark {
 	font-size: 20px;
 	font: bold;
 	font-family: 'Ubuntu Condensed', sans-serif;
+}
+.leonome {
+	font-weight: bolder;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	letter-spacing: -1px;
+	line-height: 1em;
+	margin-bottom: 1em;
 }
 
 input::-moz-focus-inner {

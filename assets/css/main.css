@@ -231,14 +231,22 @@ input, select, textarea {
 		letter-spacing: -1px;
 		margin-bottom: 1em;
 		text-align: center;
-		width: 790px;
+		
 	}
 	.sobre {
 		font-size: 3em;
 		letter-spacing: -1px;
 		margin-bottom: 1em;
 		text-align: center;
-		margin-left: 252px;
+		margin-left: 280px;
+		
+	}
+	.s {
+		font-size: 3em;
+		letter-spacing: -1px;
+		margin-bottom: 1em;
+		text-align: center;
+		
 		
 	}
 
@@ -1642,6 +1650,23 @@ input, select, textarea {
 		}
 
 	.button {
+		background-image: -moz-linear-gradient(top, #45c226, #009327);
+		background-image: -webkit-linear-gradient(top, #45c226, #009327);
+		background-image: -ms-linear-gradient(top, #45c226, #009327);
+		background-image: linear-gradient(top, #45c226, #009327);
+		display: inline-block;
+		padding: 15px 25px 15px 15px;
+		background-color: #009327;
+		border-radius: 10px; 	
+		text-decoration: none;
+		color: #fff;
+		font-size: 1.1em;
+		letter-spacing: -1px;
+		border: solid 1px #00751f;
+		box-shadow: inset 0px 0px 0px 1px #52d252;
+		
+	}
+	.buttonsga {
 		background-image: -moz-linear-gradient(top, #45c226, #009327);
 		background-image: -webkit-linear-gradient(top, #45c226, #009327);
 		background-image: -ms-linear-gradient(top, #45c226, #009327);

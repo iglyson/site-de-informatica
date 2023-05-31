@@ -210,16 +210,17 @@ figcaption {
 .concluintes {
 	width: 340px;
 	height: 340px;
-	border: 10px solid #19c438;
+	border: 10px solid#0a550c;
 	box-shadow: 5px 5px 5px #0006;
 	margin-bottom: 10px;
 	flex-wrap: wrap;
+	border-radius: 8%;
 }
 
 .concluintes {
 	width: 340px;
 	height: 340px;
-	border: 10px solid #19c438;
+	border: 10px solid #00ab06;
 	box-shadow: 5px 5px 5px #0006;
 	margin-bottom: 10px;
 	flex-wrap: wrap;

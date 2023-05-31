@@ -163,7 +163,7 @@ section {
     .nome-professor {
         margin-bottom: 10px;
     } */
-</style>#main {
+style#main {
 	display: flex;
 	align-items: center;
 }
@@ -997,11 +997,11 @@ article:last-child {
 		align-items: stretch;
 	}
 
-	.row>* {
+	.row {
 		box-sizing: border-box;
 	}
 
-	.row.gtr-uniform>*> :last-child {
+	.row.gtr-uniform :last-child {
 		margin-bottom: 0;
 	}
 
@@ -2046,9 +2046,9 @@ button:hover {
 
 /* Footer */
 
- #footer-wrapper {
+#footer-wrapper {
 	padding: 4em 0;
-} 
+}
 
 /* Copyright */
 
@@ -2400,41 +2400,24 @@ button:hover {
 
 	/* Footer */
 
-
-    #footer-wrapper {
-        padding: 40px 0;
-    }
-
-
-    /* Footer */
-
-
-    #footer-wrapper {
-        padding: 40px 0;
-    }
-
-
-    /* Copyright */
-
-
-    #copyright {
-        text-align: center;
-        color: #3e3838;
-        padding: 30px 0 0 0;
-        font-size: 0.8em;
-        line-height: 1.5em;
-    }
-
-
-    #copyright a {
-        color: #5d5d5d;
-    }
-
-	.footerfoto{
-		align-items: center;
-		text-align: center;
-		
+	#footer-wrapper {
+		padding: 40px 0;
 	}
+
+	/* Copyright */
+
+	#copyright {
+		text-align: center;
+		color: #505050;
+		padding: 30px 0 0 0;
+		font-size: 0.8em;
+		line-height: 1.5em;
+	}
+
+	#copyright a {
+		color: #5d5d5d;
+	}
+
 
 }
 

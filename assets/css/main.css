@@ -79,50 +79,9 @@ flex-grow: 1; */
 }
 
 
-.turmas{
+.descricao-professor{
 	float:center;
-	justify-content: justify;
-	display:list-item;
 }
-.galeria{
-display:inline;
-justify-content: space-evenly;
-gap: 2vw;
-padding: 0 1vw;
-
-
-}
-
-figcaption{
-	text-align: left;
-}
-.concluintes{
-	width: 340px;
-	height: 340px;
-	border:10px solid #fff;
-	box-shadow: 5px 5px 5px #0006;
-	flex-grow:1;
-	margin-top: 10px;
-	margin-left: 20px;
-	margin-right: 25px;
-	margin-inline: 3px;
-	margin-bottom: 05px;
-
-}
-
-.concluintes:hover{
-transform: scale(1.3);
-
-}
-.concluintes img{
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-	display: flex;
-	
-	
-}
-
 body {
 	line-height: 1;
 }
@@ -223,7 +182,6 @@ input, select, textarea {
 		text-align:left;
 		font-size: 19px;
 		text-align: justify;
-		
 	}
 
 	h2 {
@@ -231,15 +189,6 @@ input, select, textarea {
 		letter-spacing: -1px;
 		margin-bottom: 1em;
 		text-align: center;
-		width: 790px;
-	}
-	.sobre {
-		font-size: 3em;
-		letter-spacing: -1px;
-		margin-bottom: 1em;
-		text-align: center;
-		margin-left: 252px;
-		
 	}
 
 	h3, h4 {
@@ -280,12 +229,6 @@ input, select, textarea {
 		float: left;
 		margin: 2px 1.25em 10px 0;
 		width: 320px;
-	}
-	img.ifrnsga {
-		float: left;
-		margin: 2px 1.25em 10px 240px;
-		width: 320px;
-
 	}
 
 	img.top {
@@ -616,7 +559,6 @@ input, select, textarea {
 				margin-bottom: 10px;
 				margin-left: 630px;
 			}
-			
 				
 			}
 
@@ -1646,19 +1588,16 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, #45c226, #009327);
 		background-image: -ms-linear-gradient(top, #45c226, #009327);
 		background-image: linear-gradient(top, #45c226, #009327);
-		display: inline-flex;
-		padding: 12px 35px 18px 33px;
+		display: inline-block;
+		padding: 15px 25px 15px 25px;
 		background-color: #009327;
 		border-radius: 10px; 	
 		text-decoration: none;
 		color: #fff;
-		font-size: 1.1em;
+		font-size: 1.2em;
 		letter-spacing: -1px;
 		border: solid 1px #00751f;
 		box-shadow: inset 0px 0px 0px 1px #52d252;
-		width: 180px;
-		height: 50px;
-		margin-left: 309px;
 	}
 
 		.button:hover {
@@ -1797,7 +1736,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background:  #ffffff95;
+		background: #fff;
 		padding: 40px 40px;
 	}
 	#tela-principal {
@@ -1902,8 +1841,7 @@ input, select, textarea {
 		color: #A6A88F;
 		border-top: solid 1px #ced0b7;
 		padding: 3em 0 0 0;
-		margin: 3em 0 0 70px;
-		width: 1244px;
+		margin: 3em 0 0 0;
 	}
 
 		#copyright a {

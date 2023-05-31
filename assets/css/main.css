@@ -34,7 +34,7 @@ footer, header, hgroup, menu, nav, section {
 	.foto-secitec{
 		width: 125px;
 		height: 109px;
-		position: absolute;
+		
 
 	}
 	.foto-setic{
@@ -216,7 +216,8 @@ input, select, textarea {
 
 	img.left {
 		float: left;
-		margin: 2px 1.25em 0 0;
+		margin: 2px 1.25em 10px 0;
+		width: 320px;
 	}
 
 	img.top {

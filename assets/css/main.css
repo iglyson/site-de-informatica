@@ -189,6 +189,15 @@ input, select, textarea {
 		letter-spacing: -1px;
 		margin-bottom: 1em;
 		text-align: center;
+		width: 790px;
+	}
+	.sobre {
+		font-size: 3em;
+		letter-spacing: -1px;
+		margin-bottom: 1em;
+		text-align: center;
+		margin-left: 252px;
+		
 	}
 
 	h3, h4 {
@@ -229,6 +238,12 @@ input, select, textarea {
 		float: left;
 		margin: 2px 1.25em 10px 0;
 		width: 320px;
+	}
+	img.ifrnsga {
+		float: left;
+		margin: 2px 1.25em 10px 240px;
+		width: 320px;
+
 	}
 
 	img.top {
@@ -559,6 +574,7 @@ input, select, textarea {
 				margin-bottom: 10px;
 				margin-left: 630px;
 			}
+			
 				
 			}
 
@@ -1588,16 +1604,19 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, #45c226, #009327);
 		background-image: -ms-linear-gradient(top, #45c226, #009327);
 		background-image: linear-gradient(top, #45c226, #009327);
-		display: inline-block;
-		padding: 15px 25px 15px 25px;
+		display: inline-flex;
+		padding: 12px 35px 18px 33px;
 		background-color: #009327;
 		border-radius: 10px; 	
 		text-decoration: none;
 		color: #fff;
-		font-size: 1.2em;
+		font-size: 1.1em;
 		letter-spacing: -1px;
 		border: solid 1px #00751f;
 		box-shadow: inset 0px 0px 0px 1px #52d252;
+		width: 180px;
+		height: 50px;
+		margin-left: 309px;
 	}
 
 		.button:hover {
@@ -1841,7 +1860,8 @@ input, select, textarea {
 		color: #A6A88F;
 		border-top: solid 1px #ced0b7;
 		padding: 3em 0 0 0;
-		margin: 3em 0 0 0;
+		margin: 3em 0 0 70px;
+		width: 1244px;
 	}
 
 		#copyright a {

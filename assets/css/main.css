@@ -78,6 +78,50 @@ box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 flex-grow: 1; */
 }
 
+.turmas{
+	float:center;
+	justify-content: justify;
+	display:list-item;
+}
+.galeria{
+display:inline;
+justify-content: space-evenly;
+gap: 2vw;
+padding: 0 1vw;
+
+
+}
+
+figcaption{
+	text-align: left;
+}
+.concluintes{
+	width: 340px;
+	height: 340px;
+	border:10px solid #fff;
+	box-shadow: 5px 5px 5px #0006;
+	flex-grow:1;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 25px;
+	margin-inline: 3px;
+	margin-bottom: 05px;
+
+}
+
+.concluintes:hover{
+transform: scale(1.3);
+
+}
+.concluintes img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: flex;
+	
+	
+}
+
 
 .descricao-professor{
 	float:center;

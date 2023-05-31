@@ -2009,6 +2009,9 @@ form.ca {
 /* DIV DOS INPUTS */
 .form-group {
 	margin: 0.625rem;
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
 }
 
 /* INPUTS */
@@ -2026,7 +2029,7 @@ input[type=text] {
 
 /* BOTOES */
 .form-group button {
-	color: #fff;
+	color: #ffffff;
 	border: 0;
 	border-radius: 5px;
 	padding: 5px;

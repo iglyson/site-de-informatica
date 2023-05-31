@@ -79,17 +79,12 @@ flex-grow: 1; */
 }
 
 
-.descricao-professor{
-	float:center;
-}
-
 .turmas{
 	float:center;
 	justify-content: justify;
 	display:list-item;
 }
 .galeria{
-background-color: #d8dbb1;
 display:inline;
 justify-content: space-evenly;
 gap: 2vw;
@@ -100,8 +95,6 @@ padding: 0 1vw;
 
 figcaption{
 	text-align: left;
-	display: flex;
-	
 }
 .concluintes{
 	width: 340px;
@@ -230,6 +223,7 @@ input, select, textarea {
 		text-align:left;
 		font-size: 19px;
 		text-align: justify;
+		
 	}
 
 	h2 {
@@ -1784,7 +1778,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background: #d8dbb1;
+		background:  #ffffff95;
 		padding: 40px 40px;
 	}
 	#tela-principal {

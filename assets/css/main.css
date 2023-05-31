@@ -2430,6 +2430,11 @@ button:hover {
         color: #5d5d5d;
     }
 
+	.footerfoto{
+		align-items: center;
+		text-align: center;
+		
+	}
 
 }
 

@@ -63,14 +63,25 @@ footer, header, hgroup, menu, nav, section {
 	}
 
 .foto-professor {
-width: 100%;
+	width: 100%;
+height: 100%;
+object-fit: cover;
+border: 10px solid #4bef48;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+flex-grow: 1
+
+/* width: 100%;
 height: 100%;
 object-fit: cover;
 border: 10px solid #ffffff;
 box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
-flex-grow: 1;
+flex-grow: 1; */
 }
 
+
+.descricao-professor{
+	float:center;
+}
 body {
 	line-height: 1;
 }
@@ -1580,8 +1591,7 @@ input, select, textarea {
 		display: inline-block;
 		padding: 15px 25px 15px 25px;
 		background-color: #009327;
-		border-radius: 10px;
-		text-transform: lowercase;
+		border-radius: 10px; 	
 		text-decoration: none;
 		color: #fff;
 		font-size: 1.2em;
@@ -1648,7 +1658,6 @@ input, select, textarea {
 			right: 40px;
 			top: 1px;
 			line-height: 84px;
-			text-transform: lowercase;
 			font-size: 1.3em;
 			letter-spacing: -1px;
 		}

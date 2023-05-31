@@ -329,7 +329,7 @@ html {
 body {
 	font-size: 13.5pt;
 	font-family: sans-serif;
-	background-color: #ffffff;
+	background-color: #e3e9dc;
 	font-family: 'Ubuntu Condensed', sans-serif;
 	color: #ffffff;
 	letter-spacing: -1px;
@@ -2046,9 +2046,9 @@ button:hover {
 
 /* Footer */
 
-#footer-wrapper {
+ #footer-wrapper {
 	padding: 4em 0;
-}
+} 
 
 /* Copyright */
 
@@ -2400,22 +2400,36 @@ button:hover {
 
 	/* Footer */
 
-	#footer-wrapper {
-		padding: 40px 0;
-	}
 
-	/* Copyright */
+    #footer-wrapper {
+        padding: 40px 0;
+    }
 
-	#copyright {
-		text-align: center;
-		color: #505050;
-		padding: 30px 0 0 0;
-		font-size: 0.8em;
-		line-height: 1.5em;
-	}
 
-	#copyright a {
-		color: #5d5d5d;
-	}
+    /* Footer */
+
+
+    #footer-wrapper {
+        padding: 40px 0;
+    }
+
+
+    /* Copyright */
+
+
+    #copyright {
+        text-align: center;
+        color: #505050;
+        padding: 30px 0 0 0;
+        font-size: 0.8em;
+        line-height: 1.5em;
+    }
+
+
+    #copyright a {
+        color: #5d5d5d;
+    }
+
 
 }
+
